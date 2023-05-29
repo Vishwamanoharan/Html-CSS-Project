@@ -1,0 +1,21 @@
+#About{
+    text-align: justify;
+}
+#About>p{
+    color:black;
+}
+
+#A>a{
+
+    text-decoration: none;
+    color: red;
+    font-size: 23px;
+    margin-left: 20px;
+    border: 2px solid black;
+
+
+}
+
+body{
+    background-color: lightgreen;
+}
